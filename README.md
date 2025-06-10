@@ -1,2 +1,2 @@
 # BetaConversaFacil
-Apk Android do Aplicativo Conversa Fácil
+Beta Apk Android do Aplicativo Conversa Fácil
